@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https:////lulatoscanamusic.github.io/lulatoscanamusic/sitemap.xml
+Sitemap: https://lulatoscanamusic.com/sitemap.xml
