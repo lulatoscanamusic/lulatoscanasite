@@ -9,5 +9,20 @@
         "name": "Lula Toscana"
     },
     "items": [
+        {
+            "id": "https://lulatoscanamusic.com/lula-toscana-2/index.html",
+            "url": "https://lulatoscanamusic.com/lula-toscana-2/index.html",
+            "title": "Lula Toscana",
+            "summary": "Qué lindo es vivir en Mardel Plata en alpargatas",
+            "content_html": "\n  <p>\n    Qué lindo es vivir en Mardel Plata en alpargatas\n  </p>",
+            "image": "https://lulatoscanamusic.com/media/posts/8/IMG_4878.JPG",
+            "author": {
+                "name": "Lula Toscana"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-04T23:37:28-03:00",
+            "date_modified": "2026-05-04T23:37:28-03:00"
+        }
     ]
 }
