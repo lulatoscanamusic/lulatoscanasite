@@ -3,36 +3,10 @@
     <title>Lula Toscana Music</title>
     <link href="https://lulatoscanamusic.com/feed.xml" rel="self" />
     <link href="https://lulatoscanamusic.com" />
-    <updated>2026-05-04T23:37:28-03:00</updated>
+    <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Lula Toscana</name>
     </author>
     <id>https://lulatoscanamusic.com</id>
 
-    <entry>
-        <title>Lula Toscana</title>
-        <author>
-            <name>Lula Toscana</name>
-        </author>
-        <link href="https://lulatoscanamusic.com/lula-toscana-2/index.html"/>
-        <id>https://lulatoscanamusic.com/lula-toscana-2/index.html</id>
-        <media:content url="https://lulatoscanamusic.com/media/posts/8/IMG_4878.JPG" medium="image" />
-
-        <updated>2026-05-04T23:37:28-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://lulatoscanamusic.com/media/posts/8/IMG_4878.JPG" alt="Sängerin, Multiinstrumentalistin und unabhängige Musikforscherin" />
-                    Qué lindo es vivir en Mardel Plata en alpargatas
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://lulatoscanamusic.com/media/posts/8/IMG_4878.JPG" class="type:primaryImage" alt="Sängerin, Multiinstrumentalistin und unabhängige Musikforscherin" /></p>
-                
-  <p>
-    Qué lindo es vivir en Mardel Plata en alpargatas
-  </p>
-            ]]>
-        </content>
-    </entry>
 </feed>
